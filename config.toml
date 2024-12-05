@@ -1,0 +1,28 @@
+Title = 'RANDOM'
+Theme = "DarkAmber"
+[KEY_BINDING]
+Return = [
+'<Down>',
+'<Up>',
+'<Return>'
+]
+
+[LISTS]
+LIST1 =  ["Marie Curie", "Dmitri Mendeleev", "Linus Pauling", "Robert H. Grubbs", "Ahmed Zewail", "Rosalind Franklin", "John Dalton", "Dorothy Crowfoot Hodgkin", "Gilbert N. Lewis", "Svante Arrhenius", "Subrahmanyan Chandrasekhar", "Ilya Prigogine", "Frances H. Arnold", "Amedeo Avogadro", "Lavoisier Antoine Laurent de"]
+LIST2 = ["Victor Hugo", "Marcel Proust", "Gustave Flaubert", "Albert Camus", "François Rabelais", "Émile Zola", "Simone de Beauvoir", "Antoine de Saint-Exupéry", "Jules Verne", "Colette", "Georges Sand", "Patrick Modiano", "Marguerite Duras", "Boris Vian", "Jean-Paul Sartre"]
+
+[WINDOW]
+resizable = true
+keep_on_top = true
+return_keyboard_events = true
+
+[TEXT]
+expand_x = true
+expand_y = true
+#font =["Helvetica", 22]
+[BUTTON]
+button_text = "RUN"
+
+[CHECKBOX]
+expand_x = true
+expand_y = true
